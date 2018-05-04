@@ -31,6 +31,6 @@
 9. Run project $ python automationpractice.py damar@mailinator.com 123qwe http://automationpractice.com Chrome > report.html
 
 ### GIF
-![GIF Capture damar - SaleStock test](gif_image.gif)
-
-<html-include src="report.html"></html-include>
+![GIF Capture damar - SaleStock test](gifimage.gif)
+![Image Capture damar - SaleStock test](reportimage.pngwo)
+- File report.html https://github.com/damarmustikoaji/SaleStock/blob/master/report.html
