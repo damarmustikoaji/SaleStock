@@ -32,5 +32,5 @@
 
 ### GIF
 ![GIF Capture damar - SaleStock test](gifimage.gif)
-![Image Capture damar - SaleStock test](reportimage.pngwo)
+![Image Capture damar - SaleStock test](reportimage.png)
 - File report.html https://github.com/damarmustikoaji/SaleStock/blob/master/report.html
